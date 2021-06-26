@@ -30,7 +30,7 @@ nav a:hover {
   text-decoration: underline;
 }
 
-.packets {
+#packets {
   border: solid var(--dark);
   height: 20em;
   padding-left: 1em;
@@ -51,7 +51,7 @@ nav a:hover {
     color: var(--light);
   }
 
-  .packets{
+  #packets{
     border-color: var(--light);
   }
 }
