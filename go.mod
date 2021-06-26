@@ -1,3 +1,5 @@
+// +heroku goVersion 1.16
+// +heroku install ./cmd/ponger
 module github.com/hauru-club/ping
 
 go 1.16
